@@ -1,7 +1,6 @@
 # AWS Containers Retail Sample - Cart Service
 
 <!-- Test commit -->
-<!-- Test commit 1 -->
 
 | Language | Persistence     |
 | -------- | --------------- |
